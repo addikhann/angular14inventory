@@ -1,0 +1,8 @@
+
+.invalid-input {
+    border-bottom: 3px solid green;
+  }
+  
+  .border-danger {
+    border-bottom: 3px solid red;
+  }
